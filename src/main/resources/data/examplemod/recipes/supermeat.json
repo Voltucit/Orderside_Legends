@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#1#",
+    "###"
+  ],
+  "key": {
+    "1": {
+      "item":"minecraft:cooked_beef"
+    },
+    "#": {
+      "item":"minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "item": "examplemod:supermeat",
+    "count": 1
+  }
+}

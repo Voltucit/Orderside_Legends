@@ -1,0 +1,36 @@
+{
+  "item.examplemod.calldick": "域外石",
+  "item.examplemod.ball": "球",
+  "item.examplemod.calldick_sword": "域外之剑",
+  "item.examplemod.calldick_axe": "域外之斧",
+  "item.examplemod.calldick_pickaxe": "域外之镐",
+  "item.examplemod.calldick_shouvel": "域外之铲",
+  "item.examplemod.calldick_hoe": "域外之锄",
+  "item.examplemod.jueming": "最终救赎之剑",
+  "item.examplemod.xiewan": "楔丸",
+  "item.examplemod.supermeat": "超级牛排",
+  "item.examplemod.firegoldenapple": "炽炎金苹果",
+  "item.examplemod.seagoldenapple": "驭浪金苹果",
+  "item.examplemod.coke":"coke牢史",
+  "item.examplemod.calldick_chest": "域外胸甲",
+  "item.examplemod.calldick_feet": "域外鞋子",
+  "item.examplemod.calldick_head": "域外头盔",
+  "item.examplemod.calldick_legs": "域外腿甲",
+  "item.examplemod.kobe": "牢大",
+
+  "item.examplemod.fakedick": "假剑",
+  "item.examplemod.fakedick.desc": "真真假假...",
+
+  "item.examplemod.feileishen": "飛雷神術式(移动型)",
+  "use.feileishen1": "位置已标记",
+  "use.feileishen2": "实体已标记",
+  "use.feileishen3": "未有标记",
+
+
+  "item.examplemod.lowlife": "音乐唱片",
+  "item.examplemod.lowlife.desc": "Neck Deep-Low Life",
+
+  "item.examplemod.onmyown": "音乐唱片",
+  "item.examplemod.onmyown.desc": "Blitz Kids-On My Own"
+
+}

@@ -1,0 +1,93 @@
+{
+  "sounds.item.coke1": {
+    "category": "item",
+    "subtitle": "我嘞个骚刚啊",
+    "sounds": [
+      {
+        "name": "examplemod:item/coke1",
+        "stream": true
+      }
+    ]
+  },"sounds.item.kobe1": {
+  "category": "item",
+  "subtitle": "Man",
+  "sounds": [
+    {
+      "name": "examplemod:item/kobe1",
+      "stream": true
+    }
+  ]
+},"sounds.item.kobe2": {
+  "category": "item",
+  "subtitle": "What can i say",
+  "sounds": [
+    {
+      "name": "examplemod:item/kobe2",
+      "stream": true
+    }
+  ]
+},"sounds.item.kobe3": {
+  "category": "item",
+  "subtitle": "Manba out",
+  "sounds": [
+    {
+      "name": "examplemod:item/kobe3",
+      "stream": true
+    }
+  ]
+},"sounds.item.zhandou": {
+  "category": "item",
+  "subtitle": "战斗，爽！",
+  "sounds": [
+    {
+      "name": "examplemod:item/zhandou",
+      "stream": true
+    }
+  ]
+},"sounds.item.f1": {
+  "category": "item",
+  "subtitle": "飞雷神！",
+  "sounds": [
+    {
+      "name": "examplemod:item/f1",
+      "stream": true
+    }
+  ]
+},"sounds.item.f2": {
+  "category": "item",
+  "subtitle": "飞雷神！",
+  "sounds": [
+    {
+      "name": "examplemod:item/f2",
+      "stream": true
+    }
+  ]
+},"sounds.item.f3": {
+  "category": "item",
+  "subtitle": "飞雷神！",
+  "sounds": [
+    {
+      "name": "examplemod:item/f3",
+      "stream": true
+    }
+  ]
+},"sounds.item.f4": {
+  "category": "item",
+  "subtitle": "飞雷神！",
+  "sounds": [
+    {
+      "name": "examplemod:item/f4",
+      "stream": true
+    }
+  ]
+},"sounds.item.lowlife": {
+  "category": "item",
+  "subtitle": "Low Life",
+  "sounds": [
+    {
+      "name": "examplemod:item/lowlife",
+      "stream": true
+    }
+  ]
+}
+}

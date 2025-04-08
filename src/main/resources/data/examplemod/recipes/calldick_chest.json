@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "2 2",
+    "222",
+    "222"
+  ],
+  "key": {
+    "2": {
+      "item": "examplemod:calldick"
+    }
+  },
+  "result": {
+    "item": "examplemod:calldick_chest",
+    "count": 1
+  }
+}

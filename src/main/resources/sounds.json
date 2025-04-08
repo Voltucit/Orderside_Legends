@@ -1,0 +1,12 @@
+{
+  "item.coke.coke1": {
+    "category": "item",
+    "subtitle": "item.coke.coke1",
+    "sounds": [
+      {
+        "name": "exampledmod:item/coke/coke1",
+        "stream": true
+      }
+    ]
+  }
+}
